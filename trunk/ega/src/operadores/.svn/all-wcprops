@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/317/trunk/ega/src/operadores
+END
+CruzaPadresAleatoriosAbstracta.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/317/trunk/ega/src/operadores/CruzaPadresAleatoriosAbstracta.java
+END
+OperadorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/243/trunk/ega/src/operadores/OperadorInterface.java
+END
+MutacionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/183/trunk/ega/src/operadores/MutacionInterface.java
+END
+CruzamientoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/183/trunk/ega/src/operadores/CruzamientoInterface.java
+END
+SeleccionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/183/trunk/ega/src/operadores/SeleccionInterface.java
+END

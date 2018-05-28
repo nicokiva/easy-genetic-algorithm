@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/package-summary.html
+END
+TailerListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/TailerListener.html
+END
+TailerListenerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/TailerListenerAdapter.html
+END
+TaggedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/TaggedInputStream.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/package-tree.html
+END
+SwappedDataInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/SwappedDataInputStream.html
+END
+CharSequenceReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceReader.html
+END
+AutoCloseInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/AutoCloseInputStream.html
+END
+CloseShieldInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/CloseShieldInputStream.html
+END
+ReversedLinesFileReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ReversedLinesFileReader.html
+END
+NullReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/NullReader.html
+END
+ReaderInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ReaderInputStream.html
+END
+XmlStreamReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReader.html
+END
+CharSequenceInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/CharSequenceInputStream.html
+END
+ProxyReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ProxyReader.html
+END
+ClosedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ClosedInputStream.html
+END
+NullInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/NullInputStream.html
+END
+TeeInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/TeeInputStream.html
+END
+BOMInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/BOMInputStream.html
+END
+BoundedInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/BoundedInputStream.html
+END
+BrokenInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/BrokenInputStream.html
+END
+ProxyInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ProxyInputStream.html
+END
+XmlStreamReaderException.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/XmlStreamReaderException.html
+END
+DemuxInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/DemuxInputStream.html
+END
+ClassLoaderObjectInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/ClassLoaderObjectInputStream.html
+END
+Tailer.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/Tailer.html
+END
+CountingInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/CountingInputStream.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/input/package-use.html
+END

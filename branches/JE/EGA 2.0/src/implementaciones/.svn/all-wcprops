@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones
+END
+ComparadorPorFDA.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/ComparadorPorFDA.java
+END
+CruzaMultiPunto.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/CruzaMultiPunto.java
+END
+CromosomaImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/CromosomaImp.java
+END
+FuncionDeAptitudImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/FuncionDeAptitudImpl.java
+END
+Ranking.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/Ranking.java
+END
+MutacionCambioDeEltos.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/MutacionCambioDeEltos.java
+END
+PersonasHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/PersonasHelper.java
+END
+ParoPorCiclos.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/implementaciones/ParoPorCiclos.java
+END

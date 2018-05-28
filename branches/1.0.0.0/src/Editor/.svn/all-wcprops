@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/332/branches/1.0.0.0/src/Editor
+END
+NumberedEditorKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/332/branches/1.0.0.0/src/Editor/NumberedEditorKit.java
+END
+NumberedParagraphView.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/332/branches/1.0.0.0/src/Editor/NumberedParagraphView.java
+END
+NumberedViewFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/332/branches/1.0.0.0/src/Editor/NumberedViewFactory.java
+END

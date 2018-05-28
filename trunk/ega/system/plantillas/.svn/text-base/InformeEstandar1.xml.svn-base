@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- root -->
+<ega>
+
+<informeEstandar1>
+    <!-- datos -->
+    <titulo>Eventos</titulo>
+    <subTitulo>Solución Genética</subTitulo>
+    <autor>Pablo Pytel</autor>
+    <descripcion>Esta solución es muy útil para resolver el problema de la distribución de personas en grandes eventos. Básicamente la evolución de los individuos apunta a una convergencia en la que las personas se van cambiando de mesa, hasta encontrar un valor de aptitud que indique que es la mejor combinación posible.</descripcion>
+    
+    <!-- configuración de la solución -->
+    <datos>Oracle10-EventosDB.java</datos>    
+    <cromosoma>CromosomaEventos.java</cromosoma>
+    <aptitud>AptitudEventosGrandes.java</aptitud>
+    <seleccion>SeleccionEventosV.3.java</seleccion>
+    <cruzamiento>CruzamientoEventos.java</cruzamiento>
+    <mutacion>MutacionEventos.java</mutacion>
+    <parada>ParadaEventosXX.java</parada>
+    
+    <!-- datos finales del proceso -->
+    <duracion>00:01:12</duracion>
+    <ciclos>9839</ciclos>
+    <poblacion>300</poblacion>
+    <mutaciones>3</mutaciones>
+    <aptitudMinima>25</aptitudMinima>
+    <aptitudMaxima>290</aptitudMaxima>
+
+    <!-- todos los registros, tal como se mostrarán en el informe y en resultados -->
+    <reg>CROMOSOMA: 1      APTITUD: 220</reg>
+    <reg> </reg>
+    <reg> MESA 1           MESA 2          MESA 3           MESA 4           MESA 5            MESA 6</reg>
+    <reg> Pepe             Gaby            Ronaldo          Pocho            Kuka              Lito</reg>
+    <reg> Juan             Adrián          Beto             Roque            Kuki              Lio</reg>
+    <reg> Pepu             Gabu            Ronal            Pochi            Quque             Lupi</reg>    
+    <reg> Pedro            Archy           Rony             Pocha            Coca              Lupe</reg>    
+    <reg>                  Gabu                             Pochi            Quque             Lupi</reg>        
+    <reg> </reg>
+   
+    <grafica>
+        <minima>12, 15, 20, 38, 40, 50, 51, 70, 72, 83</minima>
+        <media>29, 33, 45, 54, 56, 62, 69, 76, 80, 89</media>
+        <maxima>40, 56, 89, 106, 150, 130, 175, 190, 206, 302</maxima>
+    </grafica>
+
+</informeEstandar1>
+</ega>

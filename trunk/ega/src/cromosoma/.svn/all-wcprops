@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/289/trunk/ega/src/cromosoma
+END
+CromosomaAbstractoGenesObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/289/trunk/ega/src/cromosoma/CromosomaAbstractoGenesObject.java
+END
+InterfaceCromosoma.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/274/trunk/ega/src/cromosoma/InterfaceCromosoma.java
+END
+FabricaDeCromosomasInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/243/trunk/ega/src/cromosoma/FabricaDeCromosomasInterface.java
+END
+FuncionDeAptitud.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/243/trunk/ega/src/cromosoma/FuncionDeAptitud.java
+END

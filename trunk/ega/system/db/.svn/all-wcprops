@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/317/trunk/ega/system/db
+END
+ayudante.bin
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/ega/system/db/ayudante.bin
+END
+aptitud.bin
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/ega/system/db/aptitud.bin
+END
+solucion.bin
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/293/trunk/ega/system/db/solucion.bin
+END
+informe.bin
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/317/trunk/ega/system/db/informe.bin
+END
+mutacion.bin
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/317/trunk/ega/system/db/mutacion.bin
+END
+cromosoma.bin
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/317/trunk/ega/system/db/cromosoma.bin
+END
+cruzamiento.bin
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/317/trunk/ega/system/db/cruzamiento.bin
+END
+paro.bin
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/317/trunk/ega/system/db/paro.bin
+END
+seleccion.bin
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/317/trunk/ega/system/db/seleccion.bin
+END

@@ -1,0 +1,243 @@
+Mesas;;;;;;;;;;;;
+Mesa 1;4;;;;;;;;;;;
+Mesa 2;4;;;;;;;;;;;
+Mesa 3;6;;;;;;;;;;;
+Mesa 4;6;;;;;;;;;;;
+Mesa 5;6;;;;;;;;;;;
+Mesa 6;6;;;;;;;;;;;
+Mesa 7;8;;;;;;;;;;;
+Mesa 8;8;;;;;;;;;;;
+Mesa 9;8;;;;;;;;;;;
+Mesa 10;8;;;;;;;;;;;
+Mesa 11;8;;;;;;;;;;;
+Mesa 12;8;;;;;;;;;;;
+Mesa 13;8;;;;;;;;;;;
+Mesa 14;8;;;;;;;;;;;
+Mesa 15;8;;;;;;;;;;;
+Mesa 16;8;;;;;;;;;;;
+Mesa 17;8;;;;;;;;;;;
+Mesa 18;8;;;;;;;;;;;
+Mesa 19;8;;;;;;;;;;;
+Mesa 20;10;;;;;;;;;;;
+Mesa 21;10;;;;;;;;;;;
+Mesa 22;10;;;;;;;;;;;
+Mesa 23;10;;;;;;;;;;;
+Mesa 24;12;;;;;;;;;;;
+Mesa 25;12;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+Caracteristicas;Valor;Igualdad/ Desigualdad;;;;;;;;;;
+Rango Edad;10;I;;;;;;;;;;
+Religion;5;I;;;;;;;;;;
+Politica;5;I;;;;;;;;;;
+Club;5;I;;;;;;;;;;
+Musica;100;I;;;;;;;;;;
+IQ;100;I;;;;;;;;;;
+Familia;1;I;;;;;;;;;;
+Nacionalidad;1;D;;;;;;;;;;
+Idiomas;70;I;;;;;;;;;;
+Gastronomia;20;D;;;;;;;;;;
+Viticultura;10;I;;;;;;;;;;
+Cultura;100;I;;;;;;;;;;
+;;;;;;;;;;;;
+Nombre;Rango Edad;Religion;Politica;Club;Musica;IQ;Familia;Nacionalidad;Idiomas;Gastronomia;Viticultura;Cultura
+Pepito;Joven;Catolico;K;Racing;Rock;Alto;Si;ARG;SI;SI;SI;ALTA
+Nicolas;Adulto;Ateo;PRO;Rojo;Pop;Medio;No;CHILE;NO;NO;NO;MEDIA
+Schumacher;Joven;Catolico;K;Racing;Rock;Bajo;Si;ESP;SI;SI;SI;MEDIA
+Leonardo;Menor;Budismo;NO;River;Reggae;Medio;Si;BRA;NO;NO;NO;ALTA
+Dario;Adulto;Catolico;NO;Boca;Clasica;Alto;No;CHILE;SI;SI;SI;MEDIA
+Senna;Joven;Catolico;K;Racing;Rock;Medio;Si;ARG;NO;NO;NO;BAJA
+Daniel;Anciano;Catolico;NO;Boca;Clasica;Medio;Si;CHILE;SI;NO;NO;ALTA
+Nahuel;Adulto;Ateo;PRO;Rojo;Pop;Alto;No;ARG;NO;NO;NO;MEDIA
+Leandro;Infante;Agnostico;NO;River;Reggae;Medio;Si;BRA;SI;SI;SI;MEDIA
+Mariel;Adulto;Agnostico;UCR;Cuervo;Clasica;Alto;No;ARG;NO;NO;NO;ALTA
+Roberto;Joven;Judio;UCR;Racing;Clasica;Bajo;Si;BRA;NO;SI;NO;BAJA
+Jorge;Joven;Ateo;UCR;Cuervo;Reggae;Alto;No;ARG;SI;NO;SI;BAJA
+Natan;Adulto;Budismo;FAP;Racing;Clasica;Bajo;Si;ESP;NO;SI;SI;MEDIA
+Capitan Am?rica;Infante;Ateo;UCR;Cuervo;Reggae;Alto;No;ARG;NO;NO;SI;MEDIA
+Spok;Adulto;Budismo;FAP;Boca;Reggae;Medio;Si;ARG;NO;SI;SI;BAJA
+Spok Clon;Joven;Catolico;K;Racing;Rock;Alto;Si;ARG;SI;SI;SI;ALTA
+Mariel;Adulto;Hinduismo;CC;Rojo;Rock;Bajo;Si;USA;NO;NO;NO;NULA
+Roberto;Joven;Judaismo;FAP;Racing;Pop;Medio;Si;ARG;NO;NO;NO;BAJA
+Jorge;Joven;Judaismo;CC;Racing;Rock;Bajo;Si;CHILE;NO;NO;SI;BAJA
+Natan;Adulto;Catolico;NO;Cuervo;Clasica;Bajo;No;CHILE;SI;SI;NO;BAJA
+Capitan Am‚rica;Infante;Judaismo;CC;Rojo;Pop;Alto;Si;ARG;NO;NO;NO;BAJA
+Spok;Adulto;Budismo;NO;Racing;Pop;Nulo;Si;ESP;NO;NO;NO;MEDIA
+Marta;Joven;Judaismo;K;Cuervo;Reggae;Medio;No;ESP;SI;SI;SI;MEDIA
+Guillermo;Adulto;Budismo;K;Rojo;Clasica;Alto;Si;ARG;NO;NO;NO;MEDIA
+Juan;Infante;Hinduismo;CC;Racing;Pop;Bajo;Si;ESP;NO;NO;NO;MEDIA
+Cristina;Infante;Judaismo;CC;Cuervo;Rock;Bajo;Si;ESP;NO;SI;SI;MEDIA
+Carla;Adulto;Judaismo;NO;Rojo;Reggae;Alto;No;CHILE;NO;NO;NO;ALTA
+Veronica;Joven;Judaismo;K;Racing;Clasica;Nulo;Si;CHILE;SI;NO;NO;BAJA
+Arnaldo;Adulto;Catolico;CC;Racing;Reggae;Bajo;Si;ARG;NO;SI;NO;MEDIA
+Ludwig;Adulto;Judaismo;UCR;Cuervo;Rock;Nulo;Si;ESP;NO;NO;SI;BAJA
+Manuel;Adulto;Hinduismo;UCR;Rojo;Reggae;Alto;No;BRA;NO;NO;NO;MEDIA
+Ricardo;Joven;Budismo;CC;Racing;Rock;Bajo;No;BRA;NO;NO;NO;ALTA
+Celeste;Adulto;Judaismo;UCR;Racing;Reggae;Bajo;No;ESP;NO;SI;NO;BAJA
+Edmundo;Adulto;Catolico;CC;Rojo;Clasica;Bajo;No;BRA;NO;NO;NO;MEDIA
+Tomas;Adulto;Budismo;K;Cuervo;Reggae;Alto;No;ARG;SI;NO;SI;MEDIA
+Maria;Adulto;Judaismo;K;Rojo;Rock;Bajo;No;CHILE;NO;SI;NO;MEDIA
+Isabel;Infante;Judaismo;K;Racing;Pop;Bajo;Si;CHILE;NO;NO;NO;ALTA
+Vicente;Adulto;Budismo;NO;Rojo;Pop;Bajo;Si;CHILE;NO;SI;SI;MEDIA
+Maximo;Joven;Hinduismo;UCR;Racing;Rock;Alto;Si;ARG;NO;NO;SI;MEDIA
+Ignacio;Adulto;Catolico;K;Cuervo;Reggae;Bajo;Si;USA;NO;NO;SI;MEDIA
+Sergio;Adulto;Catolico;K;Rojo;Pop;Bajo;Si;ESP;NO;NO;SI;MEDIA
+Geronimo;Joven;Catolico;NO;Racing;Rock;Bajo;Si;ESP;SI;NO;SI;MEDIA
+Atilio;Adulto;Judaismo;PRO;Cuervo;Reggae;Nulo;No;ARG;NO;NO;SI;ALTA
+Horacio;Joven;Catolico;FAP;River;Clasica;Bajo;Si;USA;NO;NO;SI;BAJA
+Hernan;Adulto;Judaismo;K;Boca;Reggae;Alto;Si;ESP;SI;NO;NO;BAJA
+Facundo;Adulto;Catolico;K;Racing;Rock;Nulo;No;USA;NO;NO;NO;BAJA
+Graciela;Joven;Judaismo;PRO;Cuervo;Reggae;Bajo;Si;ESP;NO;SI;NO;ALTA
+Claudia;Adulto;Catolico;NO;Boca;Rock;Bajo;Si;ARG;NO;NO;NO;BAJA
+Ana;Joven;Judaismo;FAP;Racing;Reggae;Alto;Si;USA;NO;NO;NO;BAJA
+Marco;Adulto;Hinduismo;PRO;Racing;Rock;Nulo;Si;ESP;SI;SI;NO;BAJA
+Flavio;Joven;Judaismo;K;River;Reggae;Bajo;Si;BRA;NO;NO;NO;BAJA
+Fermando;Adulto;Budismo;FAP;Cuervo;Clasica;Medio;No;ESP;NO;NO;NO;ALTA
+Sirio;Infante;Judaismo;FAP;Boca;Pop;Nulo;Si;ARG;NO;SI;NO;MEDIA
+Maverik;Joven;Judaismo;NO;River;Pop;Bajo;Si;BRA;NO;NO;NO;MEDIA
+Gustavo;Anciano;Budismo;K;Cuervo;Rock;Bajo;Si;ESP;NO;NO;SI;MEDIA
+Ernesto;Infante;Judaismo;K;Racing;Reggae;Alto;Si;BRA;NO;NO;SI;MEDIA
+Heraldo;Adulto;Judaismo;K;River;Reggae;Nulo;No;ARG;SI;SI;SI;ALTA
+Teodoro;Anciano;Budismo;PRO;Cuervo;Rock;Bajo;Si;UK;NO;NO;SI;MEDIA
+Javier;Adulto;Hinduismo;NO;River;Reggae;Bajo;Si;ESP;NO;NO;SI;MEDIA
+Josefina;Infante;Judaismo;UCR;Racing;Reggae;Medio;Si;ESP;NO;NO;SI;MEDIA
+Cecilia;Joven;Judaismo;UCR;River;Rock;Alto;No;ESP;NO;NO;SI;MEDIA
+Sofia;Adulto;Judaismo;NO;Cuervo;Tango;Nulo;Si;ARG;NO;NO;SI;MEDIA
+Collins;Infante;Judaismo;UCR;River;Tango;Nulo;Si;ESP;SI;NO;NO;ALTA
+Serafina;Anciano;Judaismo;K;Racing;Rock;Bajo;Si;CHILE;NO;NO;NO;MEDIA
+Oscar;Joven;Catolico;K;River;Tango;Bajo;Si;ESP;NO;NO;NO;MEDIA
+Mart¡n;Adulto;Catolico;CC;Cuervo;Tango;Bajo;Si;ESP;NO;NO;NO;MEDIA
+Claudio;Infante;Judaismo;K;River;Clasica;Medio;Si;UK;NO;NO;NO;ALTA
+Francisco;Adulto;Hinduismo;CC;Cuervo;Boleros;Bajo;No;CHILE;NO;NO;NO;MEDIA
+Mirinda;Joven;Judaismo;NO;Racing;Boleros;Bajo;Si;BRA;NO;NO;NO;MEDIA
+Eva;Adulto;Judaismo;K;Cuervo;C Grego;Medio;Si;ESP;NO;NO;NO;ALTA
+Bety;Infante;Catolico;K;Racing;Rock;Bajo;Si;ESP;SI;NO;NO;ALTA
+Matilda;Anciano;Budismo;CC;Cuervo;C Grego;Bajo;Si;CHILE;NO;NO;NO;ALTA
+Benito;Adulto;Judaismo;CC;Racing;Tecno;Bajo;Si;BRA;NO;NO;NO;ALTA
+Maximo;Joven;Judaismo;NO;Rojo;Rock;Nulo;No;ESP;NO;NO;NO;ALTA
+Maximo;Adulto;Budismo;PRO;Racing;Boleros;Alto;Si;UK;SI;NO;NO;ALTA
+Ariana;Infante;Catolico;K;Cuervo;C Grego;Bajo;Si;ESP;NO;NO;NO;ALTA
+Angela;Adulto;Judaismo;K;Huracan;Rock;Bajo;Si;ESP;NO;NO;NO;BAJA
+Nahuel;Infante;Judaismo;K;Racing;Tango;Bajo;Si;CHILE;NO;SI;NO;MEDIA
+Mabel;Adulto;Hinduismo;NO;Boca;Tango;Medio;No;UK;NO;NO;NO;BAJA
+Alejandra;Joven;Judaismo;UCR;Cuervo;Clasica;Nulo;Si;ESP;SI;NO;SI;MEDIA
+Andres;Joven;Catolico;UCR;Rojo;C Grego;Nulo;Si;UK;NO;NO;SI;BAJA
+Teresa;Anciano;Budismo;K;Racing;Pop;Medio;Si;CHILE;NO;NO;SI;MEDIA
+Pinto;Infante;Catolico;K;Cuervo;Pop;Nulo;Si;ESP;NO;SI;SI;ALTA
+Raul;Infante;Judaismo;NO;Rojo;C Grego;Bajo;No;SUIZA;NO;NO;SI;MEDIA
+Antonio;Adulto;Judaismo;FAP;Racing;Rock;Nulo;Si;SUIZA;SI;NO;SI;MEDIA
+Rodolfo;Adulto;Judaismo;FAP;Cuervo;Boleros;Bajo;Si;CHINA;NO;NO;SI;ALTA
+Gabriel;Joven;Budismo;FAP;Rojo;Reggae;Bajo;Si;CHILE;NO;SI;SI;BAJA
+Luis;Joven;Hinduismo;K;Racing;Rock;Bajo;Si;SUIZA;NO;NO;NO;MEDIA
+Diego;Adulto;Judaismo;UCR;Rojo;Tango;Alto;Si;SUIZA;NO;NO;NO;MEDIA
+Camila;Infante;Judaismo;NO;Cuervo;Tango;Nulo;No;ESP;NO;NO;NO;ALTA
+Marcelo;Adulto;Budismo;UCR;Racing;Rock;Bajo;Si;UK;SI;SI;NO;BAJA
+Trinidad;Infante;Catolico;K;Huracan;Pop;Bajo;Si;UK;NO;NO;NO;MEDIA
+Arturo;Joven;Budismo;K;Rojo;Reggae;Bajo;Si;CHILE;NO;NO;NO;MEDIA
+Armando;Joven;Catolico;K;Cuervo;Rock;Bajo;Si;BRA;NO;SI;NO;MEDIA
+Sebastian;Joven;Budismo;K;Boca;Tango;Medio;No;BRA;NO;NO;SI;ALTA
+Miguel;Adulto;Catolico;NO;Racing;Reggae;Nulo;Si;ESP;NO;SI;SI;MEDIA
+Bautista;Infante;Judaismo;PRO;Rojo;Pop;Bajo;Si;ARG;SI;SI;SI;MEDIA
+Milagros;Joven;Hinduismo;PRO;Cuervo;Pop;Medio;Si;ESP;NO;SI;SI;ALTA
+Lorena;Adulto;Judaismo;K;Boca;Clasica;Bajo;Si;USA;NO;SI;SI;BAJA
+Luciana;Infante;Judaismo;K;Rojo;Reggae;Nulo;No;USA;NO;SI;NO;MEDIA
+Lurdes;Infante;Judaismo;PRO;Racing;Tango;Medio;Si;BRA;NO;NO;NO;MEDIA
+Fatima;Joven;Catolico;NO;Boca;Tango;Bajo;Si;ARG;NO;NO;NO;MEDIA
+Candela;Joven;Agnostico;PRO;Cuervo;Boleros;Nulo;Si;BRA;SI;NO;NO;MEDIA
+Fiona;Adulto;Budismo;PRO;Rojo;Pop;Alto;Si;ESP;NO;NO;NO;ALTA
+Guadalupe;Infante;Agnostico;NO;Racing;Tango;Nulo;No;BRA;NO;NO;NO;BAJA
+Shrek;Joven;Budismo;UCR;Huracan;Tango;Bajo;Si;CHILE;NO;SI;NO;BAJA
+Fangio;Adulto;Agnostico;UCR;Cuervo;Rock;Nulo;Si;UK;NO;NO;NO;MEDIA
+Mozart;Adulto;Budismo;NO;Rojo;Reggae;Bajo;Si;USA;NO;NO;SI;MEDIA
+San Martin;Adulto;Agnostico;UCR;Racing;Pop;Nulo;Si;USA;NO;SI;SI;MEDIA
+Peron;Adulto;Judaismo;UCR;Huracan;Rock;Bajo;Si;ARG;SI;NO;SI;MEDIA
+Illia;Adulto;Judaismo;FAP;Cuervo;Boleros;Nulo;No;USA;NO;NO;SI;MEDIA
+Rafael;Joven;Hinduismo;NO;Huracan;Rock;Medio;Si;CHILE;NO;SI;SI;MEDIA
+Sabato;Joven;Agnostico;UCR;Huracan;Pop;Bajo;Si;USA;NO;NO;SI;MEDIA
+Einstein;Adulto;Budismo;K;Racing;Boleros;Bajo;Si;USA;NO;NO;SI;MEDIA
+Leloir;Adulto;Catolico;PRO;Ferro;Clasica;Medio;Si;ARG;SI;NO;SI;MEDIA
+Favaloro;Adulto;Budismo;FAP;Cuervo;Tango;Nulo;Si;ESP;NO;NO;SI;ALTA
+Sarmiento;Adulto;Catolico;FAP;Huracan;Pop;Medio;Si;USA;NO;NO;SI;MEDIA
+Fidel Castro;Adulto;Budismo;NO;Boca;Tango;Bajo;Si;UK;NO;NO;NO;MEDIA
+Obama;Adulto;Judaismo;PRO;Boca;Rock;Medio;Si;CHILE;NO;NO;NO;ALTA
+Merkel;Adulto;Catolico;K;Ferro;Tango;Bajo;Si;ARG;NO;SI;NO;ALTA
+Federer;Adulto;Budismo;K;Cuervo;Tango;Medio;Si;SUIZA;SI;NO;NO;MEDIA
+Del Potro;Adulto;Catolico;PRO;Huracan;Rock;Bajo;Si;SUIZA;NO;SI;NO;MEDIA
+Amstrong;Adulto;Judaismo;NO;Huracan;Rock;Bajo;Si;ESP;NO;SI;NO;MEDIA
+Lenon;Adulto;Judaismo;PRO;Racing;Tango;Alto;Si;CHINA;NO;SI;NO;MEDIA
+Alejandro Magno;Adulto;Catolico;FAP;Racing;Tango;Medio;Si;ARG;NO;SI;NO;MEDIA
+Cleopatra;Adulto;Budismo;PRO;Boca;Pop;Nulo;Si;CHINA;NO;SI;NO;MEDIA
+Chopin;Adulto;Catolico;NO;Cuervo;Clasica;Medio;Si;UK;SI;SI;NO;MEDIA
+Bach;Joven;Budismo;UCR;Ferro;Clasica;Nulo;Si;CHINA;NO;NO;SI;MEDIA
+Gandhi;Adulto;Catolico;FAP;Boca;Boleros;Bajo;Si;CHINA;NO;NO;SI;MEDIA
+Lizt;Menor;Hinduismo;UCR;Cuervo;Clasica;Medio;Si;UK;NO;NO;SI;MEDIA
+Berlioz;Joven;Catolico;NO;Ferro;Clasica;Bajo;No;ARG;NO;NO;SI;MEDIA
+Schuman;Adulto;Catolico;UCR;Racing;Clasica;Bajo;Si;CHINA;NO;NO;SI;MEDIA
+Paganini;Menor;Judaismo;UCR;Ferro;Boleros;Medio;Si;CHINA;SI;NO;SI;ALTA
+Vivaldi;Adulto;Judaismo;FAP;Cuervo;Clasica;Medio;Si;ESP;NO;NO;SI;MEDIA
+Handel;Menor;Agnostico;PRO;Ferro;Clasica;Medio;No;CHINA;NO;NO;SI;MEDIA
+Gardel;Joven;Budismo;NO;Racing;Pop;Medio;Si;ARG;NO;NO;SI;MEDIA
+Nikola Tesla;Adulto;Agnostico;K;Ferro;Boleros;Medio;Si;CHINA;NO;NO;SI;ALTA
+Kepler;Joven;Agnostico;K;Ferro;Rock;Medio;Si;ESP;NO;NO;SI;MEDIA
+Hawking;Adulto;Budismo;PRO;Racing;Boleros;Medio;No;CHINA;SI;NO;SI;MEDIA
+Newton;Joven;Agnostico;PRO;Ferro;Clasica;Alto;Si;CHINA;NO;NO;SI;ALTA
+Kelvin;Adulto;Judaismo;FAP;Ferro;Boleros;Medio;Si;CHILE;NO;NO;SI;BAJA
+Faraday;Menor;Judaismo;NO;Huracan;Rock;Bajo;Si;CHINA;NO;NO;SI;MEDIA
+Galileo;Adulto;Budismo;K;Ferro;C Grego;Bajo;No;CHINA;NO;NO;SI;MEDIA
+Bernoulli;Joven;Agnostico;UCR;Boca;C Grego;Bajo;Si;CHILE;NO;NO;SI;MEDIA
+Max Plank;Joven;Agnostico;CC;Ferro;Rock;Medio;Si;CHINA;SI;NO;SI;MEDIA
+Volta;Adulto;Budismo;UCR;Boca;Tango;Medio;Si;ARG;NO;SI;NO;MEDIA
+Carl Sagan;Menor;Hinduismo;NO;Boca;Tango;Bajo;Si;CHINA;NO;NO;NO;MEDIA
+Bohr;Joven;Agnostico;FAP;Ferro;Rock;Medio;Si;CHINA;NO;SI;NO;MEDIA
+Nobel;Adulto;Catolico;CC;Ferro;Pop;Bajo;Si;CHILE;NO;NO;NO;MEDIA
+Gauss;Menor;Catolico;UCR;Racing;C Grego;Bajo;Si;UK;NO;SI;NO;MEDIA
+Pavarotti;Adulto;Judaismo;CC;Ferro;Clasica;Bajo;Si;CHINA;SI;NO;NO;MEDIA
+Placido;Joven;Judaismo;UCR;Huracan;Clasica;Bajo;Si;UK;NO;NO;NO;MEDIA
+Carreras;Adulto;Judaismo;CC;Ferro;Clasica;Bajo;Si;ESP;NO;NO;NO;BAJA
+M Caballe;Joven;Budismo;FAP;Boca;Clasica;Bajo;Si;SUIZA;NO;NO;NO;MEDIA
+Maria Callas;Joven;Agnostico;UCR;Huracan;Clasica;Medio;Si;ARG;NO;NO;NO;BAJA
+Copernico;Adulto;Agnostico;UCR;Ferro;Tecno;Medio;Si;SUIZA;NO;NO;NO;MEDIA
+Pacal;Joven;Budismo;FAP;Boca;Tecno;Medio;Si;ESP;SI;SI;NO;BAJA
+Moctezuma;Joven;Catolico;UCR;Huracan;Tecno;Medio;No;SUIZA;NO;NO;NO;MEDIA
+Kan Balam;Adulto;Catolico;FAP;Racing;Rock;Medio;Si;SUIZA;NO;NO;NO;BAJA
+Atahualpa;Joven;Budismo;NO;Huracan;C Grego;Medio;Si;ESP;NO;NO;NO;MEDIA
+Leonidas;Joven;Agnostico;K;Boca;C Grego;Medio;Si;SUIZA;NO;NO;NO;MEDIA
+Tutankamon;Joven;Agnostico;K;Ferro;Rock;Medio;Si;BRA;SI;SI;NO;MEDIA
+Akenaton;Menor;Judaismo;UCR;Ferro;Boleros;Medio;Si;SUIZA;NO;NO;NO;MEDIA
+Gengis Kan;Adulto;Judaismo;UCR;Boca;Boleros;Medio;No;ARG;NO;NO;NO;ALTA
+Caligula;Joven;Judaismo;NO;Ferro;Rock;Alto;Si;CHINA;NO;NO;NO;MEDIA
+Neron;Joven;Agnostico;PRO;Racing;C Grego;Medio;Si;CHINA;NO;NO;NO;MEDIA
+Tiberio;Adulto;Hinduismo;FAP;Ferro;C Grego;Medio;Si;BRA;SI;SI;NO;ALTA
+Comodo;Joven;Agnostico;PRO;Huracan;Boleros;Medio;Si;CHINA;NO;NO;NO;MEDIA
+Stravinsky;Adulto;Catolico;FAP;Huracan;Clasica;Medio;Si;CHINA;NO;NO;NO;MEDIA
+Telemann;Adulto;Catolico;FAP;Racing;Clasica;Medio;Si;BRA;NO;NO;NO;MEDIA
+Wagner;Adulto;Judaismo;NO;Ferro;Clasica;Medio;No;USA;NO;NO;NO;MEDIA
+Verdi;Adulto;Judaismo;K;Huracan;Clasica;Medio;Si;USA;NO;SI;NO;ALTA
+Rossini;Joven;Ateo;K;Huracan;Clasica;Medio;Si;USA;NO;SI;NO;BAJA
+Schubert;Adulto;Agnostico;PRO;Ferro;Clasica;Medio;Si;ARG;SI;SI;NO;BAJA
+Bethoven;Joven;Agnostico;FAP;Ferro;Clasica;Medio;Si;ESP;NO;SI;NO;BAJA
+Weber;Joven;Budismo;FAP;Huracan;Clasica;Medio;No;UK;NO;SI;NO;ALTA
+Mendelssohn;Menor;Agnostico;FAP;Ferro;Clasica;Medio;Si;UK;NO;SI;NO;BAJA
+Strauss;Adulto;Judaismo;NO;Racing;Clasica;Medio;Si;ARG;NO;SI;NO;MEDIA
+Mahler;Joven;Budismo;K;Ferro;Clasica;Alto;Si;SUIZA;NO;SI;NO;MEDIA
+Steiner;Joven;Agnostico;K;Ferro;Clasica;Alto;No;ESP;SI;NO;NO;MEDIA
+Borges;Adulto;Judaismo;K;Huracan;Clasica;Medio;Si;ESP;NO;NO;NO;MEDIA
+Vargas Llosa;Joven;Budismo;UCR;Ferro;Tango;Medio;Si;ESP;NO;NO;NO;BAJA
+Cortazar;Joven;Agnostico;FAP;Boca;Tango;Medio;Si;SUIZA;NO;NO;SI;MEDIA
+Neruda;Adulto;Catolico;UCR;Huracan;Rock;Medio;No;ARG;NO;NO;SI;BAJA
+Marquez;Joven;Hinduismo;UCR;Ferro;C Grego;Alto;Si;ARG;SI;SI;SI;MEDIA
+Saramago;Adulto;Judaismo;NO;Boca;Clasica;Medio;Si;ARG;NO;SI;SI;MEDIA
+Sabato;Adulto;Judaismo;PRO;Ferro;Rock;Medio;Si;ARG;NO;SI;SI;MEDIA
+Delacroix;Adulto;Judaismo;FAP;Huracan;Rock;Medio;Si;CHINA;NO;SI;SI;ALTA
+Miguel Angel;Menor;Ateo;NO;Boca;Clasica;Alto;Si;USA;SI;SI;SI;MEDIA
+Picasso;Joven;Catolico;FAP;Ferro;Tecno;Medio;Si;USA;NO;SI;SI;MEDIA
+Rembrandt;Joven;Catolico;NO;Huracan;C Grego;Medio;No;CHINA;NO;SI;SI;MEDIA
+Renoir;Adulto;Agnostico;FAP;Huracan;Clasica;Medio;Si;CHINA;SI;NO;SI;BAJA
+Rubens;Joven;Ateo;PRO;Ferro;Clasica;Alto;Si;USA;NO;NO;SI;ALTA
+Van Gogh;Adulto;Catolico;FAP;Racing;Clasica;Alto;Si;ARG;NO;NO;SI;ALTA
+Manet;Menor;Catolico;FAP;Olimpo;Clasica;Alto;Si;CHINA;SI;NO;SI;ALTA
+Pitagoras;Adulto;Ateo;FAP;Olimpo;Clasica;Alto;Si;USA;NO;NO;SI;ALTA
+Platon;Joven;Ateo;PRO;Racing;Clasica;Alto;No;SUIZA;NO;NO;SI;ALTA
+Aristoteles;Adulto;Judaismo;UCR;Olimpo;Clasica;Alto;Si;UK;NO;SI;NO;ALTA
+Socrates;Joven;Judaismo;UCR;Olimpo;Clasica;Alto;No;USA;SI;SI;NO;ALTA
+Heraclito;Joven;Judaismo;NO;Huracan;Clasica;Alto;Si;UK;NO;SI;NO;ALTA

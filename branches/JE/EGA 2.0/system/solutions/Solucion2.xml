@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ega>
+	<settings>
+		<readOnly>1</readOnly>
+		<serverFolder>//SERVER_01/files/pub/Dropbox/EGA</serverFolder>
+	</settings>
+	<dataElements>
+		<general>
+			<name>solu</name>
+			<author>Anónimo</author>
+			<file>linda.sl</file>
+			<folder>C:\EGA\Soluciones</folder>
+			<dateCreated>20/05/2012</dateCreated>
+			<dateModified>11/08/2012</dateModified>
+			<dateCompleted>17/06/2012</dateCompleted>
+			<dateExecuted>20/08/2012</dateExecuted>
+			<datePublished>20/08/2012</datePublished>
+			<description>Descripción (deber respetar los enters)</description>
+			<observation>Observación (idem)</observation>
+		</general>
+		<configuration>
+			<initialPopulation>
+				<size>300</size>
+				<increasingStyle>down</increasingStyle>
+			</initialPopulation>
+			<userDataLoadMethod>
+				<id>H1</id>
+				<name>Datos en SQL Server</name>
+				<path>C:\implementaciones\PersonasHelper.java</path>
+			</userDataLoadMethod>
+			<chromosomeMethod>
+				<id>C1</id>
+				<name>Cromosoma Eventos</name>
+				<path>C:\implementaciones\CromosomaImp.java</path>
+			</chromosomeMethod>
+			<aptitudeMethod>
+				<id>A1</id>
+				<name>Aptitud Eventos</name>
+				<path>C:\implementaciones\FuncionDeAptitudImpl.java</path>
+			</aptitudeMethod>
+			<selectionMethod>
+				<id>S1</id>
+				<name>Seleccion Eventos</name>
+				<path>C:\implementaciones\Ranking.java</path>
+			</selectionMethod>
+			<crossingMethod> 
+				<id>X1</id>
+				<name>Cruzamiento Eventos</name>
+				<path>C:\implementaciones\CruzaMultiPunto.java</path>
+				<param>
+					<name>param_cantidadDePuntos</name>
+					<type>String</type>
+					<value>2</value>
+				</param>
+			</crossingMethod>
+			<mutationMethod>
+				<id>M1</id>
+				<name>Mutación Eventos</name>
+				<path>C:\implementaciones\MutacionCambioDeEltos.java</path>
+			</mutationMethod>
+			<stopMethod>
+				<id>O1</id>
+				<name>Por ciclos</name>
+				<path>C:\implementaciones\ParoPorCiclos.java</path>
+				<param>
+					<name>cantidadTotalDeCiclos</name>
+					<type>String</type>
+					<value>2</value>
+				</param>
+			</stopMethod>
+		</configuration>
+		<resultFiles>
+			<file>
+				<name>SoluEventos-05-08-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-05-08-2012.res</path>
+			</file>
+			<file>
+				<name>SoluEventos-11-09-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-11-09-2012.res</path>
+			</file>
+			<file>
+				<name>SoluEventos-15-09-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-15-09-2012.res</path>
+			</file>
+		</resultFiles>
+	</dataElements>
+</ega>

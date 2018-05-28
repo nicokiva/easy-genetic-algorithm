@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><ega>
+<settings>
+<isPackage/>
+<readOnly>0</readOnly>
+<serverFolder>C:\Users\Triton\Desktop\PUBLIC</serverFolder>
+</settings>
+<dataElements>
+<general>
+<name>Eventos</name>
+<author>EGA Team</author>
+<file>SolucionEventos.xml</file>
+<folder>C:\Users\Triton\Desktop\ega-pf\trunk\ega\system\solutions</folder>
+<dateCreated>20/05/2012</dateCreated>
+<dateModified>11/08/2012</dateModified>
+<dateCompleted>18 / 11 / 12</dateCompleted>
+<dateExecuted>18 / 11 / 12</dateExecuted>
+<datePublished>20/08/2012</datePublished>
+<description>Esta solución carga los datos de todos los asistentes a un evento determinado y busca relaciones ocultas entre dichos datos, con el fin de conformar grupos de personas que tiendan a presentar la mejor afinidad aparente. Así el organizador puede sugerir al anfitrión la mejor distribución de las personas, sin siquiera conocerlas.</description>
+<observation>Observacion.</observation>
+</general>
+<configuration>
+<initialPopulation>
+<size>100</size>
+<increasingStyle>down</increasingStyle>
+</initialPopulation>
+<aptitudeMethod>
+<id>A1</id>
+<name>Aptitud Eventos</name>
+<path>solucionEvento2\FuncionDeAptitudImpl.java</path>
+</aptitudeMethod>
+<chromosomeMethod>
+<id>C5</id>
+<name>Cromosoma Eventos</name>
+<path>solucionEvento2\CromosomaImp.java</path>
+</chromosomeMethod>
+<selectionMethod>
+<id>S4</id>
+<name>Seleccion Eventos</name>
+<path>system\metodos\seleccion\Ranking.java</path>
+</selectionMethod>
+<crossingMethod>
+<id>X1</id>
+<name>Cruzamiento Eventos</name>
+<path>solucionEvento2\CruzaEventos.java</path>
+</crossingMethod>
+<mutationMethod>
+<id>M1</id>
+<name>Mutación Eventos</name>
+<path>system\metodos\mutacion\MutacionCambioDeEltos.java</path>
+<param>
+<name>strMutationRate</name>
+<value>0.0005</value>
+<type>String</type>
+</param>
+</mutationMethod>
+<stopMethod>
+<id>O1</id>
+<name>Por ciclos</name>
+<path>solucionEvento2\ParoPorCiclos.java</path>
+<param>
+<name>cantidadTotalDeCiclos</name>
+<value>2000</value>
+<type>String</type>
+</param>
+</stopMethod>
+<userDataLoadMethod>
+<id>H1</id>
+<name>Datos Eventos</name>
+<path>solucionEvento2\PersonasHelper.java</path>
+<param>
+<name>path</name>
+<value>solucionEvento2/info.csv</value>
+<type>String</type>
+</param>
+</userDataLoadMethod>
+<resultMethod>
+<id>I1</id>
+<name>Formato Eventos</name>
+<path>solucionEvento2\InformeDePrueba.java</path>
+<param>
+<name>mostrarRepetidos</name>
+<value>N</value>
+<type>String</type>
+</param>
+</resultMethod>
+</configuration>
+
+</dataElements>
+</ega>

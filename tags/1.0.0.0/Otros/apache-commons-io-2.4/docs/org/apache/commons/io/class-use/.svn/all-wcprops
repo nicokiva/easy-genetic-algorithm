@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use
+END
+FileDeleteStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileDeleteStrategy.html
+END
+IOUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/IOUtils.html
+END
+CopyUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/CopyUtils.html
+END
+FileCleaningTracker.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaningTracker.html
+END
+FileExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileExistsException.html
+END
+FileUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileUtils.html
+END
+FilenameUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FilenameUtils.html
+END
+LineIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/LineIterator.html
+END
+TaggedIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/TaggedIOException.html
+END
+IOCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/IOCase.html
+END
+IOExceptionWithCause.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/IOExceptionWithCause.html
+END
+FileSystemUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileSystemUtils.html
+END
+FileCleaner.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/FileCleaner.html
+END
+DirectoryWalker.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.html
+END
+ByteOrderMark.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/ByteOrderMark.html
+END
+HexDump.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/HexDump.html
+END
+Charsets.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/Charsets.html
+END
+DirectoryWalker.CancelException.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/DirectoryWalker.CancelException.html
+END
+EndianUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/class-use/EndianUtils.html
+END

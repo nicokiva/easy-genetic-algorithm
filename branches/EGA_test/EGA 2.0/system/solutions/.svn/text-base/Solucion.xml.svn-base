@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ega>
+	<settings>
+		<readOnly>1</readOnly>
+		<serverFolder>//SERVER_01/files/pub/Dropbox/EGA</serverFolder>
+	</settings>
+	<dataElements>
+		<general>
+			<name>Distribución de Personas</name>
+			<author>Anónimo</author>
+			<file>linda.sl</file>
+			<folder>C:\EGA\Soluciones</folder>
+			<dateCreated>20/05/2012</dateCreated>
+			<dateModified>11/08/2012</dateModified>
+			<dateCompleted>17/06/2012</dateCompleted>
+			<dateExecuted>20/08/2012</dateExecuted>
+			<datePublished>20/08/2012</datePublished>
+			<description>Descripción (deber respetar los enters)</description>
+			<observation>Observación (idem)</observation>
+		</general>
+		<configuration>
+			<initialPopulation>
+				<size>300</size>
+				<increasingStyle>down</increasingStyle>
+			</initialPopulation>
+			<userDataLoadMethod>
+				<id>U1</id>
+				<name>Datos en SQL Server</name>
+				<path>C:\EGA\Datos\datosEventos.java</path>
+				<param>
+					<name>USER</name>
+					<type>String</type>
+					<value>pepe</value>
+				</param>
+				<param>
+					<name>PASSWORD</name>
+					<type>String</type>
+					<value>hay que encriptar estos casos! que truchos jaja</value>
+				 </param>
+				 <param>
+					<name>SERVER</name>
+					<type>String</type>
+					<value>127.0.0.1:3303</value>
+				</param>
+			</userDataLoadMethod>
+			<chromosomeMethod>
+				<id>C1</id>
+				<name>Cromosoma Eventos</name>
+				<path>C:\Users\Nicolas\Desktop\EGA\EGA 2.0\system\metodos\cromosoma\Cromosoma3.java</path>
+				<param>
+					<name>param1</name>
+					<type>Integer</type>
+					<value>8</value>
+				</param>
+				<param>
+					<name>param2</name>
+					<type>int</type>
+					<value>0</value>
+				</param>
+			</chromosomeMethod>
+			<aptitudeMethod>
+				<id>A1</id>
+				<name>Aptitud Eventos</name>
+				<path>C:\EGA\Aptitud\AptitudEventos.java</path>
+				<param>
+					<name>param1</name>
+					<type>int</type>
+					<value>10</value>
+				</param>
+				<param>
+					<name>param2</name>
+					<type>char</type>
+					<value>Y</value>
+				</param>
+			</aptitudeMethod>
+			<selectionMethod>
+				<id>S1</id>
+				<name>Seleccion Eventos</name>
+				<path>C:\EGA\Seleccion\SeleccionEventos.java</path>
+				<param>
+					<name>param1</name>
+					<type>Integer</type>
+					<value>16</value>
+				</param>
+				<param>
+					<name>param2</name>
+					<type>boolean</type>
+					<value>true</value>
+				</param>
+			</selectionMethod>
+			<crossingMethod> 
+				<id>X1</id>
+				<name>Cruzamiento Eventos</name>
+				<path>C:\EGA\Cruzamiento\EstandarMultipunto.java</path>
+				<param>
+					<name>param2</name>
+					<type>int</type>
+					<value>9</value>
+				</param>
+				<param>
+					<name>param1</name>
+					<type>int</type>
+					<value>2</value>
+				</param>
+			</crossingMethod>
+			<mutationMethod>
+				<id>M1</id>
+				<name>Mutación Eventos</name>
+				<path>C:\EGA\Mutacion\Estandar.java</path>
+				<param>
+					<name>PROBABILIDAD</name>
+					<type>double</type>
+					<value>0.01</value>
+				</param>
+			</mutationMethod>
+			<stopMethod>
+				<id>O1</id>
+				<name>Por Tiempo</name>
+				<path>C:\EGA\Parada\EstandarTiempo.java</path>
+				<param>
+					<name>SEGUNDOS</name>
+					<type>int</type>
+					<value>120</value>
+				</param>
+			</stopMethod>
+		</configuration>
+		<resultFiles>
+			<file>
+				<name>SoluEventos-05-08-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-05-08-2012.res</path>
+			</file>
+			<file>
+				<name>SoluEventos-11-09-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-11-09-2012.res</path>
+			</file>
+			<file>
+				<name>SoluEventos-15-09-2012.res</name>
+				<path>C:\EGA\Resultados\SoluEventos-15-09-2012.res</path>
+			</file>
+		</resultFiles>
+	</dataElements>
+</ega>

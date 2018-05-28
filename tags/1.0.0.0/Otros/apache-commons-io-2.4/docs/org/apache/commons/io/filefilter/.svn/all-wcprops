@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter
+END
+CanWriteFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/CanWriteFileFilter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/package-frame.html
+END
+TrueFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/TrueFileFilter.html
+END
+FileFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFileFilter.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/package-summary.html
+END
+OrFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/OrFileFilter.html
+END
+NameFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/NameFileFilter.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/package-tree.html
+END
+WildcardFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFilter.html
+END
+MagicNumberFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/MagicNumberFileFilter.html
+END
+WildcardFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/WildcardFileFilter.html
+END
+FalseFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/FalseFileFilter.html
+END
+HiddenFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/HiddenFileFilter.html
+END
+AgeFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/AgeFileFilter.html
+END
+PrefixFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/PrefixFileFilter.html
+END
+CanReadFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/CanReadFileFilter.html
+END
+EmptyFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/EmptyFileFilter.html
+END
+NotFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/NotFileFilter.html
+END
+FileFilterUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/FileFilterUtils.html
+END
+AndFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/AndFileFilter.html
+END
+ConditionalFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/ConditionalFileFilter.html
+END
+AbstractFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/AbstractFileFilter.html
+END
+SuffixFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/SuffixFileFilter.html
+END
+DirectoryFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/DirectoryFileFilter.html
+END
+IOFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/IOFileFilter.html
+END
+SizeFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/SizeFileFilter.html
+END
+RegexFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/RegexFileFilter.html
+END
+DelegateFileFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/330/tags/1.0.0.0/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/filefilter/DelegateFileFilter.html
+END

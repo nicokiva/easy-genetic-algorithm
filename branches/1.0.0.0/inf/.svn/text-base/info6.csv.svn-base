@@ -1,0 +1,30 @@
+Mesas;;
+Mesa 1;3;
+Mesa 2;3;
+Mesa 3;3;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+Caracteristicas;Valor;Igualdad/ Desigualdad
+Rango Edad;10;D
+Religion;10;D
+;;
+;;
+;;
+;;
+;;
+Nombre;Rango Edad;Religion
+1;A;A
+2;A;A
+3;A;A
+4;A;A
+5;A;A
+6;A;A
+7;A;A
+8;A;A
+9;A;A

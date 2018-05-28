@@ -1,0 +1,91 @@
+10
+
+dir
+335
+http://ega-pf.googlecode.com/svn/trunk/ega/src
+http://ega-pf.googlecode.com/svn
+
+
+
+2012-12-08T00:14:17.700135Z
+334
+nicokiva@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d7fa87f1-f5da-2b00-f105-b01f65b12e11
+
+proceso
+dir
+
+util
+dir
+
+system
+dir
+
+Nucleo
+dir
+
+Editor
+dir
+
+enums
+dir
+
+Clase
+dir
+
+Presentacion
+dir
+
+solucion
+dir
+
+elementos
+dir
+
+Grafica
+dir
+
+comp
+dir
+
+Solutions
+dir
+
+cromosoma
+dir
+
+Formularios
+dir
+
+Methods
+dir
+
+operadores
+dir
+
+Renderer
+dir
+
+poblacion
+dir
+
+configuration
+dir
+
+Listeners
+dir
+

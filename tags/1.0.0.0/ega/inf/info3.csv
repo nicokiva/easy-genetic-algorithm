@@ -1,0 +1,20 @@
+Mesas;;;;;
+Mesa 1;2;;;;
+Mesa 2;2;;;;
+;;;;;
+;;;;;
+;;;;;
+Caracteristicas;Valor;Igualdad/ Desigualdad;;;
+Rango Edad;100;I;;;
+Religion;100;I;;;
+Politica;100;I;;;
+Futbol;100;I;;;
+Musica;100;I;;;
+;;;;;
+;;;;;
+Nombre;Rango Edad;Religion;Politica;Futbol;Musica
+0;Adolescente;Catolico;K;Racing;Rock
+1;Adulto;Ateo;Macrista;Independiente;Pop
+2;Adolescente;Catolico;K;Racing;Rock
+3;Infante;No;No;River;Reggea
+;;;;;

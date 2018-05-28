@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="janino-2.6.1/janino-2.6.1/janino.jar" sourcepath="janino-2.6.1/janino-2.6.1/janino-src.zip"/>
+	<classpathentry kind="lib" path="janino-2.6.1/janino-2.6.1/commons-compiler.jar" sourcepath="janino-2.6.1/janino-2.6.1/commons-compiler-src.zip"/>
+	<classpathentry kind="lib" path="janino-2.6.1/janino-2.6.1/commons-compiler-jdk.jar" sourcepath="janino-2.6.1/janino-2.6.1/commons-compiler-jdk-src.zip"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/jgap.jar" sourcepath="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/src"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/jgap-examples.jar" sourcepath="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/examples/src"/>
+	<classpathentry kind="lib" path="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/jgap-tests.jar" sourcepath="D:/Documents and Settings/leop/Compilador/jgap_3.6.2_full/tests"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores
+END
+SeleccionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/SeleccionInterface.java
+END
+CruzaPadresAleatoriosAbstracta.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/CruzaPadresAleatoriosAbstracta.java
+END
+CopyOfOperadorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/CopyOfOperadorInterface.java
+END
+OperadorInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/OperadorInterface.java
+END
+MutacionInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/MutacionInterface.java
+END
+HelperInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/HelperInterface.java
+END
+CruzamientoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/CruzamientoInterface.java
+END
+ParoInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/334/branches/JE/EGA%202.0/src/operadores/ParoInterface.java
+END

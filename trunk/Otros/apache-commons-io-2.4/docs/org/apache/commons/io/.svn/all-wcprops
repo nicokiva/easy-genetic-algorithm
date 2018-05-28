@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io
+END
+Charsets.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/Charsets.html
+END
+DirectoryWalker.CancelException.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.CancelException.html
+END
+EndianUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/EndianUtils.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/package-frame.html
+END
+FileDeleteStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileDeleteStrategy.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/package-summary.html
+END
+IOUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/IOUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/package-tree.html
+END
+CopyUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/CopyUtils.html
+END
+FileCleaningTracker.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileCleaningTracker.html
+END
+FileExistsException.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileExistsException.html
+END
+FileUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileUtils.html
+END
+FilenameUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FilenameUtils.html
+END
+LineIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/LineIterator.html
+END
+TaggedIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/TaggedIOException.html
+END
+IOExceptionWithCause.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/IOExceptionWithCause.html
+END
+IOCase.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/IOCase.html
+END
+FileSystemUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileSystemUtils.html
+END
+FileCleaner.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/FileCleaner.html
+END
+DirectoryWalker.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/DirectoryWalker.html
+END
+ByteOrderMark.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/ByteOrderMark.html
+END
+HexDump.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/315/trunk/Otros/apache-commons-io-2.4/docs/org/apache/commons/io/HexDump.html
+END

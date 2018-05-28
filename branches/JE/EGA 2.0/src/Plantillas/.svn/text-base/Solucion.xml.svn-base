@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- root -->
+<ega>
+
+<!-- ajustes de funcionalidad -->
+<settings>
+    <readOnly>0<readOnly>
+    <serverFolder>//SERVER_01/files/pub/Dropbox/EGA</serverFolder>
+    <!-- futuras funcionalidades acá -->
+</settings>
+
+
+<!-- todos los elementos de datos involucrados en la solución -->
+<dataElements>
+    <!-- solapa GENERAL -->
+    <general>
+        <!-- campos obligatorios -->
+        <name>Distribución de Personas</name>
+        <author>Anónimo</author>
+        <file>linda.sl</file>
+        <folder>C:\EGA\Soluciones</folder>
+
+        <!-- fechas -->
+        <dateCreated>20/05/2012</dateCreated>
+        <dateModified>11/08/2012</dateModified>
+        <dateCompleted>17/06/2012</dateCompleted>
+        <dateExecuted>20/08/2012</dateExecuted>
+        <datePublished>20/08/2012</datePublished>
+
+        <!-- descripción y observación -->
+        <description>Descripción (deber respetar los enters)</description>
+        <observation>Observación (idem)</observation>
+    </general>
+    
+    <!-- solapa CONFIGURACION -->
+    <configuration>
+        <!-- configuración de la población -->
+        <initialPopulation>
+            <size>300</size>
+            <increasingStyle>fixed</increasingStyle>
+        </initialPopulation>
+        
+        <!-- método de Carga de Datos -->
+        <userDataLoadMethod>
+            <name>Datos en SQL Server</name> <!-- la 1ra vez desde la clase! -->
+            <path>C:\EGA\Datos\datosEventos.java</path> <!-- path absoluto! (ojo! cuando se trate de una solución exportada, el path debe ser RELATIVO) -->
+            <param>
+                <name>USER</name>
+                <type>String</type>
+                <value>pepe</value>
+            </param>
+            <param>
+                <name>PASSWORD</name>
+                <type>String</type>
+                <value>hay que encriptar estos casos! que truchos jaja</value>
+             </param>
+             <param>
+                <name>SERVER</name>
+                <type>String</type>
+                <value>127.0.0.1:3303</value>
+            </param>
+        </userDataLoadMethod>
+        
+        <!-- método de Cromosoma -->
+        <chromosomeMethod>
+            <name>Cromosoma Eventos</name>
+            <path>C:\EGA\Cromosoma\CromosomaEventos.java</path>
+            <param>
+                <name>param1</name>
+                <type>Integer</type>
+                <value>8</value>
+            </param>
+            <param>
+                <name>param2</name>
+                <type>int</type>
+                <value>0</value>
+            </param>
+        </chromosomeMethod>
+        
+        <!-- método de Aptitud -->
+        <aptitudeMethod>
+            <name>Aptitud Eventos</name>
+            <path>C:\EGA\Aptitud\AptitudEventos.java</path>
+            <param>
+                <name>param1</name>
+                <type>int</type>
+                <value>10</value>
+            </param>
+            <param>
+                <name>param2</name>
+                <type>char</type>
+                <value>Y</value>
+            </param>
+        </aptitudeMethod>
+        
+        <!-- método de Selección -->
+        <selectionMethod>
+            <name>Seleccion Eventos</name>
+            <path>C:\EGA\Seleccion\SeleccionEventos.java</path>
+            <param>
+                <name>param1</name>
+                <type>Integer</type>
+                <value>16</value>
+            </param>
+            <param>
+                <name>param2</name>
+                <type>boolean</type>
+                <value>true</value>
+            </param>
+        </selectionMethod>
+        
+        <!-- método de Cruzamiento -->
+        <crossingMethod> 
+            <name>Cruzamiento Eventos</name>
+            <path>C:\EGA\Cruzamiento\EstandarMultipunto.java</path>
+            <param>
+                <name>param1</name>
+                <type>int</type>
+                <value>2</value>
+            </param>
+            <param>
+                <name>param2</name>
+                <type>int</type>
+                <value>9</value>
+            </param>
+        </crossingMethod>
+        
+        <!-- método de Mutación -->
+        <mutationMethod>
+            <name>Mutación Eventos</name>
+            <path>C:\EGA\Mutacion\Estandar.java</path>
+            <param>
+                <name>PROBABILIDAD</name>
+                <type>double</type>
+                <value>0.01</value>
+            </param>
+        </mutationMethod>
+
+        <!-- método de Parada -->
+        <stopMethod>
+            <name>Por Tiempo</name>
+            <path>C:\EGA\Parada\EstandarTiempo.java</path>
+            <param>
+                <name>SEGUNDOS</name>
+                <type>int</type>
+                <value>120</value>
+            </param>
+        </stopMethod>
+        
+    </configuration>
+
+
+    <!-- solapa RESULTADOS -->
+    
+    <!-- OBS: en cada uno de estos archivos se va aguardar, además de los resultados  -->
+    <!-- 3 vectores int que representan lagráfica de esas ejecuciones -->
+    <resultFiles>
+        <file>
+            <name>SoluEventos-05-08-2012.res</name>
+            <path>C:\EGA\Resultados\SoluEventos-05-08-2012.res</path>
+        </file>
+        <file>
+            <name>SoluEventos-11-09-2012.res</name>
+            <path>C:\EGA\Resultados\SoluEventos-11-09-2012.res</path>
+        </file>
+        <file>
+            <name>SoluEventos-15-09-2012.res</name>
+            <path>C:\EGA\Resultados\SoluEventos-15-09-2012.res</path>
+        </file>
+    </resultFiles>
+    
+</dataElements> <!-- FIN de bloques de solapas -->
+
+</ega>

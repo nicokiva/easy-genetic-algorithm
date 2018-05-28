@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer
+END
+ResourcesOperatorTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer/ResourcesOperatorTableRenderer.java
+END
+ResourcesSolutionTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer/ResourcesSolutionTableRenderer.java
+END
+PersonalTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer/PersonalTableModel.java
+END
+PersonalTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer/PersonalTableRenderer.java
+END
+ResourcesTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/332/branches/1.0.0.0/src/Renderer/ResourcesTableModel.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares
+END
+TimerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/TimerManager.java
+END
+EGAFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/EGAFile.java
+END
+file_handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/file_handler.java
+END
+OperationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/OperationResult.java
+END
+XMLTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/XMLTags.java
+END
+data_type_converter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/data_type_converter.java
+END
+MethodInCombo.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/MethodInCombo.java
+END
+GeneradorXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/GeneradorXML.java
+END
+functions.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/functions.java
+END
+comboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/comboBox.java
+END
+Encriptador.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/Encriptador.java
+END
+ResourceInList.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/333/trunk/ega/src/Presentacion/Auxiliares/ResourceInList.java
+END

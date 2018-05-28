@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp
+END
+SimpleCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/SimpleCompiler.java
+END
+Run.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/Run.java
+END
+ManejadorDeElementos.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/ManejadorDeElementos.java
+END
+Elemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/Elemento.java
+END
+Compilador.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/Compilador.java
+END
+JLCompilador.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/JLCompilador.java
+END
+JLJavaFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117/branches/EGA_test/ega/src/comp/JLJavaFileManager.java
+END

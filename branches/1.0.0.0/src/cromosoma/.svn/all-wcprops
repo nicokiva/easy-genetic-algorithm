@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/332/branches/1.0.0.0/src/cromosoma
+END
+CromosomaAbstractoGenesObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/332/branches/1.0.0.0/src/cromosoma/CromosomaAbstractoGenesObject.java
+END
+InterfaceCromosoma.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/332/branches/1.0.0.0/src/cromosoma/InterfaceCromosoma.java
+END
+FabricaDeCromosomasInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/332/branches/1.0.0.0/src/cromosoma/FabricaDeCromosomasInterface.java
+END
+FuncionDeAptitud.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/332/branches/1.0.0.0/src/cromosoma/FuncionDeAptitud.java
+END
